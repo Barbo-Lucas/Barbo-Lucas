@@ -31,8 +31,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
-<br>
-
 ### Estatística
 
 <img
@@ -40,7 +38,7 @@
     alt="GitHub Stats"
     height="200"
     style="padding-right: 12px"
-    src="https://github-readme-stats.vercel.app/api?username=barbo-lucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=Barbo-Lucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 <img
     aling="left"
