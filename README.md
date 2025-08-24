@@ -37,7 +37,7 @@
     aling="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 32px"
+    style="margin-right=32px"
     src="https://github-readme-stats.vercel.app/api?username=Barbo-Lucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 <img
