@@ -1,10 +1,10 @@
 
-# <p style="display: inline">&#128187;</p> Lucas Barbosa
+# Lucas Barbosa
 
 **`Desenvolvedor FullStack`**
 
 ---
-### <p style="display: inline">&#129302;</p> Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img
     aling="left"
@@ -33,7 +33,7 @@
 
 <br>
 
-### <p style="display: inline">&#128202;</p> Estatística
+### Estatística
 
 <img
     aling="left"
