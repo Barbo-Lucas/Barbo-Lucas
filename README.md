@@ -37,14 +37,14 @@
     <img
         aling="left"
         alt="GitHub Stats"
-        height="200"
+        height="200px"
         style="padding-right: 12px"
         src="https://github-readme-stats.vercel.app/api?username=barbo-lucas&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
     />
     <img
         aling="left"
         alt="Linguagens"
-        height="200"
+        height="200px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbo-lucas&layout=compact&custom_title=Tecnologias&theme=dark&langs-count=7"
     />
 </p>
