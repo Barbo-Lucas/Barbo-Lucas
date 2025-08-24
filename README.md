@@ -38,6 +38,7 @@
         aling="left"
         alt="GitHub Stats"
         height="200px"
+        width="80%"
         style="padding-right: 12px"
         src="https://github-readme-stats.vercel.app/api?username=barbo-lucas&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
     />
@@ -45,6 +46,7 @@
         aling="left"
         alt="Linguagens"
         height="200px"
+        width="20%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbo-lucas&layout=compact&custom_title=Tecnologias&theme=dark&langs-count=7"
     />
 </p>
